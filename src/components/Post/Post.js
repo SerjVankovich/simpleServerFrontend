@@ -21,7 +21,7 @@ const Post = ({ post }) => (
             <a className="title" href={ post.link }>{ post.title }</a>
         </h3>
         { post.imgSrc &&
-                <img className="img" src={ post.imgSrc } alt="post image"/>
+                <img className="img" src={ post.imgSrc } alt="post"/>
             }
         <hr/>
     </div>
