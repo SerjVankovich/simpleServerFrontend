@@ -1,0 +1,33 @@
+.authorImg {
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+}
+
+.bg {
+    background: #ebebeb
+}
+
+.authorLink {
+    text-decoration: none;
+    font-size: 20px;
+    color: #acacac;
+    margin-left: 10px;
+}
+
+.authorLink :focus {
+    cursor: pointer;
+    color: #868686; 
+}
+
+.title {
+    text-decoration: none;
+    font-size: 20px;
+    color: #474747;
+    margin-left: 10px;
+}
+
+.img {
+    margin-left: 10px;
+    border-radius: 10px;
+}
